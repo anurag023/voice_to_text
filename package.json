@@ -2,7 +2,7 @@
   "name": "voice_to_text",
   "version": "1.0.0",
   "description": "voice to text website",
-  "main": "script.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
